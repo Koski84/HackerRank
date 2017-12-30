@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Implementation", "Algorithms.Implementation\Algorithms.Implementation.csproj", "{1DD8107B-2576-4F4A-A297-0654D4BA0AD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.ImplementationTests", "Algorithms.ImplementationTests\Algorithms.ImplementationTests.csproj", "{BEBC8C72-B37E-4EBB-BE37-2D862EAAEA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1DD8107B-2576-4F4A-A297-0654D4BA0AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD8107B-2576-4F4A-A297-0654D4BA0AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD8107B-2576-4F4A-A297-0654D4BA0AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBC8C72-B37E-4EBB-BE37-2D862EAAEA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBC8C72-B37E-4EBB-BE37-2D862EAAEA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBC8C72-B37E-4EBB-BE37-2D862EAAEA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBC8C72-B37E-4EBB-BE37-2D862EAAEA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
